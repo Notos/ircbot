@@ -1376,3 +1376,285 @@
 [18:00:00] Writing user file...
 [18:00:00] Writing channel file...
 [18:02:00] 14<chanstats> saving data (14schedule) --> saved (142), discarded (140)
+[18:28:57] Last message repeated 2 time(s).
+[18:28:57] #TomBombad# help chpass
+[18:29:31] #TomBombad# help chhandle
+[18:31:36] #TomBombad# help
+[18:32:00] 14<chanstats> saving data (14schedule) --> saved (142), discarded (140)
+[18:33:37] Lost dcc connection to TomBombad (telnet@irc.sendthatfile.me/56486)
+[18:33:44] Telnet connection: ks361762.kimsufi.com/57099
+[18:33:44] Timeout/EOF ident connection
+[18:33:50] Logged in: TomBombad (telnet@ks361762.kimsufi.com/57099)
+[18:35:12] #TomBombad# whois TomBombadil
+[18:35:21] #TomBombad# whois TomBombad
+[18:36:22] Telnet connection: bd7a3f3e.virtua.com.br/38394
+[18:36:37] Timeout/EOF ident connection
+[18:38:35] #TomBombad# +user ASH 
+[18:39:10] #TomBombad# +user malvavisk 
+[18:39:55] #TomBombad# chpass ASH [something]
+[18:42:00] 14<chanstats> saving data (14schedule) --> saved (142), discarded (140)
+[18:42:34] #TomBombad# +user fevtyke !*@*
+[18:42:51] #TomBombad# chpass fevtyke [something]
+[18:47:08] #TomBombad# match * 999
+[18:47:42] #TomBombad# chpass malvavisk [something]
+[18:49:35] Writing user file...
+[18:49:35] Writing channel file...
+[18:49:35] Received HUP signal: rehashing...
+[18:49:35] Writing channel file...
+[18:49:35] Listening at telnet port 45331 (all).
+[18:49:35] --------------------------------------
+[18:49:35] -------- Initialising scripts --------
+[18:49:35] Current search path:
+[18:49:35] scripts
+[18:49:35] BlackVIP TCL by BLaCkShaDoW Loaded
+[18:49:35] Loaded cmd_resolve.tcl successfully.
+[18:49:35] Loading dccwhois.tcl...
+[18:49:35] Loaded dccwhois.tcl
+[18:49:35] GetOps v2.3c loaded.
+[18:49:35] Hold 'Em 1.0 loaded.
+[18:49:35] infoegg v1.2 loaded successfully
+[18:49:35] ipcheck.tcl version 4.0 by arfer loaded
+[18:49:35] TCL loaded: k-lined
+[18:49:35] Notes 2.1.0 - Released by MHT <mht@mygale.org>
+[18:49:35] *** Op Commands by xTc^bLiTz <xtc_blitz@hotmail.com>  Loaded
+[18:49:35] Quesedilla v5 final loaded (no channels)
+[18:49:35] Loaded sentinel.tcl v2.70 by slennox
+[18:49:35] troll.tcl v2.1 by spithash@DALnet iz up and trollin'
+[18:49:35] TVRage v2.4
+[18:49:35] *Loaded* 08,07UrbanDictionary by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[18:49:35] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[18:49:35] use '.help userinfo' for commands.
+[18:49:35] xchannel-4.2 by demond loaded successfully
+[18:49:35] 23 of 23 scripts initialised.
+[18:49:35] TVRage v2.4
+[18:49:35] troll.tcl v2.1 by spithash@DALnet iz up and trollin'
+[18:49:35] ipcheck.tcl version 4.0 by arfer loaded
+[18:49:35] 14<chanstats> version 1.3.0 by arfer loaded
+[18:49:35] *** Op Commands by xTc^bLiTz <xtc_blitz@hotmail.com>  Loaded
+[18:49:35] xchannel-4.2 by demond loaded successfully
+[18:49:35] *Loaded* 08,07UrbanDictionary by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[18:49:35] infoegg v1.2 loaded successfully
+[18:49:35] Hold 'Em 1.0 loaded.
+[18:49:35] BlackVIP TCL by BLaCkShaDoW Loaded
+[18:49:35] Loading dccwhois.tcl...
+[18:49:35] Loaded dccwhois.tcl
+[18:49:35] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[18:49:35] use '.help userinfo' for commands.
+[18:49:35] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[18:49:35] use '.help userinfo' for commands.
+[18:49:35] Writing channel file...
+[18:49:35] * USER FILE NOT FOUND!  (try './eggdrop -m eggdrop.conf' to make one)
+
+[18:52:35] 14<chanstats> loading data (14connect-server) --> loaded (142), discarded (140)
+[18:52:35] 14<chanstats> initialising time bind (14init-server)
+[18:52:35] -NickServ (NickServ@stf.service)- This nickname is owned by someone else
+[18:52:35] -NickServ (NickServ@stf.service)- If this is your nickname, type /msg NickServ IDENTIFY <password>
+[18:52:37] -NickServ (NickServ@stf.service)- Password accepted - you are now recognized
+[18:52:37] -NickServ (NickServ@stf.service)- Added hostmask [*~unb@*.kimsufi.com] to the list of your known hosts
+[18:52:37] -MemoServ (MemoServ@stf.service)- You have no new memos
+[18:52:45] Gimli joined #stf-announce.
+[18:52:49] GetOps: No bots to ask for ops on #stf-announce.
+[18:52:53] Gimli joined #stf-staff.
+[18:52:57] GetOps: No bots to ask for ops on #stf-staff.
+[18:52:59] Telnet connection: irc.sendthatfile.me/57126
+[18:52:59] Timeout/EOF ident connection
+[18:53:01] Gimli joined #stf-disabled.
+[18:53:05] GetOps: No bots to ask for ops on #stf-disabled.
+[18:53:09] Gimli joined #stf-help.
+[18:53:13] GetOps: No bots to ask for ops on #stf-help.
+[18:53:17] Gimli joined #stf-debug.
+[18:53:21] GetOps: No bots to ask for ops on #stf-debug.
+[18:53:25] Gimli joined #stf-report.
+[18:53:29] GetOps: No bots to ask for ops on #stf-report.
+[18:53:33] Gimli joined #stf-admin.
+[18:53:37] GetOps: No bots to ask for ops on #stf-admin.
+[18:53:41] Gimli joined #stf-labs.
+[18:53:45] * TERMINATE SIGNAL -- SIGNING OFF
+[18:53:49] 14<chanstats> loading data (14connect-server) --> loaded (142), discarded (140)
+[18:53:49] 14<chanstats> initialising time bind (14init-server)
+[18:53:49] -NickServ (NickServ@stf.service)- This nickname is owned by someone else
+[18:53:49] -NickServ (NickServ@stf.service)- If this is your nickname, type /msg NickServ IDENTIFY <password>
+[18:53:51] -NickServ (NickServ@stf.service)- Password accepted - you are now recognized
+[18:53:51] -MemoServ (MemoServ@stf.service)- You have no new memos
+[18:53:59] Gimli joined #stf-announce.
+[18:54:03] GetOps: No bots to ask for ops on #stf-announce.
+[18:54:07] Gimli joined #stf-staff.
+[18:54:11] GetOps: No bots to ask for ops on #stf-staff.
+[18:54:15] Gimli joined #stf-disabled.
+[18:54:19] GetOps: No bots to ask for ops on #stf-disabled.
+[18:54:23] Gimli joined #stf-help.
+[18:54:27] GetOps: No bots to ask for ops on #stf-help.
+[18:54:31] Gimli joined #stf-debug.
+[18:54:35] GetOps: No bots to ask for ops on #stf-debug.
+[18:54:39] Gimli joined #stf-report.
+[18:54:43] GetOps: No bots to ask for ops on #stf-report.
+[18:54:47] Gimli joined #stf-admin.
+[18:54:51] GetOps: No bots to ask for ops on #stf-admin.
+[18:54:55] Gimli joined #stf-labs.
+[18:54:59] GetOps: No bots to ask for ops on #stf-labs.
+[18:55:03] Gimli joined #stf-status.
+[18:55:07] GetOps: No bots to ask for ops on #stf-status.
+[18:55:11] Gimli joined #stf-gazelle.
+[18:55:15] GetOps: No bots to ask for ops on #stf-gazelle.
+[18:55:19] Gimli joined #stf.
+[18:55:23] GetOps: No bots to ask for ops on #stf.
+[18:55:27] Introduced to Apollo (*!*Lefteris@189.122.63.*)
+[18:55:27] Bot installation complete, first master is Apollo
+[18:55:27] Writing user file...
+[18:55:27] Writing channel file...
+[18:55:27] Gimli joined #stf-admins.
+[18:55:31] GetOps: No bots to ask for ops on #stf-admins.
+[18:57:11] (Apollo!~Lefteris@189.122.63.62) !Apollo! PASS...
+[18:57:44] Telnet connection: irc.sendthatfile.me/57131
+[18:57:44] Timeout/EOF ident connection
+[18:57:50] Logged in: Apollo (telnet@irc.sendthatfile.me/57131)
+[18:57:55] #Apollo# +user ASH 
+[18:57:59] #Apollo# +user fevtyke !*@*
+[18:58:03] #Apollo# +user malvavisk !*@*
+[18:58:24] #Apollo# chpass malvavisk [something]
+[18:59:42] #Apollo# help chan
+[18:59:46] #Apollo# help
+[19:00:01] Writing user file...
+[19:00:01] Writing channel file...
+[19:00:01] Expired 1 note
+[19:00:39] #Apollo# help +chan
+[19:03:00] 14<chanstats> saving data (14schedule) --> saved (142), discarded (140)
+[19:06:20] Writing user file...
+[19:06:20] Writing channel file...
+[19:06:20] Received HUP signal: rehashing...
+[19:06:20] Writing channel file...
+[19:06:20] Listening at telnet port 45331 (all).
+[19:06:20] * IRC NICK CHANGE: Gimli -> unb
+[19:06:20] --------------------------------------
+[19:06:20] -------- Initialising scripts --------
+[19:06:20] Current search path:
+[19:06:20] scripts
+[19:06:20] BlackVIP TCL by BLaCkShaDoW Loaded
+[19:06:20] Loaded cmd_resolve.tcl successfully.
+[19:06:20] Loading dccwhois.tcl...
+[19:06:20] Loaded dccwhois.tcl
+[19:06:20] GetOps v2.3c loaded.
+[19:06:20] Hold 'Em 1.0 loaded.
+[19:06:20] infoegg v1.2 loaded successfully
+[19:06:20] ipcheck.tcl version 4.0 by arfer loaded
+[19:06:20] TCL loaded: k-lined
+[19:06:20] Notes 2.1.0 - Released by MHT <mht@mygale.org>
+[19:06:20] *** Op Commands by xTc^bLiTz <xtc_blitz@hotmail.com>  Loaded
+[19:06:20] Quesedilla v5 final loaded (no channels)
+[19:06:20] Loaded sentinel.tcl v2.70 by slennox
+[19:06:20] troll.tcl v2.1 by spithash@DALnet iz up and trollin'
+[19:06:20] TVRage v2.4
+[19:06:20] *Loaded* 08,07UrbanDictionary by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[19:06:20] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[19:06:20] use '.help userinfo' for commands.
+[19:06:20] xchannel-4.2 by demond loaded successfully
+[19:06:20] 23 of 23 scripts initialised.
+[19:06:20] TVRage v2.4
+[19:06:20] troll.tcl v2.1 by spithash@DALnet iz up and trollin'
+[19:06:20] ipcheck.tcl version 4.0 by arfer loaded
+[19:06:20] 14<chanstats> version 1.3.0 by arfer loaded
+[19:06:20] *** Op Commands by xTc^bLiTz <xtc_blitz@hotmail.com>  Loaded
+[19:06:20] xchannel-4.2 by demond loaded successfully
+[19:06:20] *Loaded* 08,07UrbanDictionary by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[19:06:20] infoegg v1.2 loaded successfully
+[19:06:20] Hold 'Em 1.0 loaded.
+[19:06:20] BlackVIP TCL by BLaCkShaDoW Loaded
+[19:06:20] Loading dccwhois.tcl...
+[19:06:20] Loaded dccwhois.tcl
+[19:06:20] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[19:06:20] use '.help userinfo' for commands.
+[19:06:20] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[19:06:20] use '.help userinfo' for commands.
+[19:06:20] Creating channel file
+[19:06:20] Writing channel file...
+[19:06:20] Userfile loaded, unpacking...
+[19:07:00] Switching back to nick unb
+[19:07:01] Regained nickname 'unb'.
+[19:07:57] Writing user file...
+[19:07:57] Writing channel file...
+[19:07:57] Received HUP signal: rehashing...
+[19:07:57] Writing channel file...
+[19:07:57] Listening at telnet port 45331 (all).
+[19:07:57] --------------------------------------
+[19:07:57] -------- Initialising scripts --------
+[19:07:57] Current search path:
+[19:07:57] scripts
+[19:07:57] BlackVIP TCL by BLaCkShaDoW Loaded
+[19:07:57] Loaded cmd_resolve.tcl successfully.
+[19:07:57] Loading dccwhois.tcl...
+[19:07:57] Loaded dccwhois.tcl
+[19:07:57] GetOps v2.3c loaded.
+[19:07:57] Hold 'Em 1.0 loaded.
+[19:07:57] infoegg v1.2 loaded successfully
+[19:07:57] ipcheck.tcl version 4.0 by arfer loaded
+[19:07:57] TCL loaded: k-lined
+[19:07:57] Notes 2.1.0 - Released by MHT <mht@mygale.org>
+[19:07:57] *** Op Commands by xTc^bLiTz <xtc_blitz@hotmail.com>  Loaded
+[19:07:57] Quesedilla v5 final loaded (no channels)
+[19:07:57] Loaded sentinel.tcl v2.70 by slennox
+[19:07:57] troll.tcl v2.1 by spithash@DALnet iz up and trollin'
+[19:07:57] TVRage v2.4
+[19:07:57] *Loaded* 08,07UrbanDictionary by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[19:07:57] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[19:07:57] use '.help userinfo' for commands.
+[19:07:57] xchannel-4.2 by demond loaded successfully
+[19:07:57] 23 of 23 scripts initialised.
+[19:07:57] TVRage v2.4
+[19:07:57] troll.tcl v2.1 by spithash@DALnet iz up and trollin'
+[19:07:57] ipcheck.tcl version 4.0 by arfer loaded
+[19:07:57] 14<chanstats> version 1.3.0 by arfer loaded
+[19:07:57] *** Op Commands by xTc^bLiTz <xtc_blitz@hotmail.com>  Loaded
+[19:07:57] xchannel-4.2 by demond loaded successfully
+[19:07:57] *Loaded* 08,07UrbanDictionary by Ford_Lawnmower irc.GeekShed.net #Script-Help
+[19:07:57] infoegg v1.2 loaded successfully
+[19:07:57] Hold 'Em 1.0 loaded.
+[19:07:57] BlackVIP TCL by BLaCkShaDoW Loaded
+[19:07:57] Loading dccwhois.tcl...
+[19:07:57] Loaded dccwhois.tcl
+[19:07:57] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[19:07:57] use '.help userinfo' for commands.
+[19:07:57] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ).
+[19:07:57] use '.help userinfo' for commands.
+[19:07:57] Writing channel file...
+[19:07:57] Userfile loaded, unpacking...
+[19:09:32] Writing user file...
+[19:09:32] Writing channel file...
+[19:09:32] * TERMINATE SIGNAL -- SIGNING OFF
+[19:09:58] xchannel-4.2: ERROR: no channels defined
+[19:09:59] 14<chanstats> loading data (14connect-server) --> loaded (142), discarded (140)
+[19:09:59] 14<chanstats> initialising time bind (14init-server)
+[19:10:01] -NickServ (NickServ@stf.service)- The nickname [unb] is not registered
+[19:11:03] Telnet connection: irc.sendthatfile.me/57151
+[19:11:03] Timeout/EOF ident connection
+[19:11:08] Logged in: Apollo (telnet@irc.sendthatfile.me/57151)
+[19:11:27] Writing channel file...
+[19:11:27] unb joined #UNF.
+[19:11:31] GetOps: No bots to ask for ops on #unf.
+[19:12:16] #Apollo# chanset * +seen +autoop +autovoice +dontkickops +protectfriends +troll +ipcheck +chanstats +ud +vip 
+[19:19:00] 14<chanstats> saving data (14schedule) --> saved (140), discarded (142)
+[19:21:26] Writing user file...
+[19:21:26] Writing channel file...
+[19:21:26] * TERMINATE SIGNAL -- SIGNING OFF
+[19:21:31] xchannel-4.2 by demond loaded successfully
+[19:21:46] Telnet connection: ks361762.kimsufi.com/57165
+[19:21:46] Timeout/EOF ident connection
+[19:21:52] Logged in: Apollo (telnet@ks361762.kimsufi.com/57165)
+[19:22:15] #Apollo# help
+[19:22:47] Writing user file...
+[19:22:47] Writing channel file...
+[19:22:47] * TERMINATE SIGNAL -- SIGNING OFF
+[19:23:27] xchannel-4.2 by demond loaded successfully
+[19:23:29] 14<chanstats> initialising time bind (14init-server)
+[19:23:29] -NickServ (services@filehoard.com)- Your nick isn't registered.
+[19:23:31] Telnet connection: ks361762.kimsufi.com/57166
+[19:23:31] Timeout/EOF ident connection
+[19:23:39] Logged in: Apollo (telnet@ks361762.kimsufi.com/57166)
+[19:26:18] #Apollo# help
+[19:26:25] #Apollo# help +chan
+[19:26:33] #Apollo# chaninfo #UNF
+[19:27:22] #Apollo# help +chan
+[19:53:02] checking VIP`S on #UNF..
+[19:53:02] Tcl error in script for 'timer1':
+[19:53:02] couldn't open "logs/vip(#UNF).txt": no such file or directory
+[20:00:02] Writing user file...
+[20:00:02] Writing channel file...
