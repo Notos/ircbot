@@ -1,0 +1,4 @@
+ircbot
+======
+
+eggdrop and candies
