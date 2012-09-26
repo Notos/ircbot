@@ -1,0 +1,43 @@
+#4v: eggdrop v1.6.21 -- Gimli -- written Wed Sep 26 18:00:00 2012
+TomBombad  - hjlmnoptx               
+--HOSTS *!*Lefteris@189.122.63.*
+--HOSTS -telnet!*@*
+--XTRA created 1347517874
+--PASS +hhInj.PUxIa/
+--LASTON 1348645348 partyline
+::#stf-announce bans
+::#stf-staff bans
+::#stf-disabled bans
+::#stf-help bans
+::#stf-debug bans
+::#stf-report bans
+::#stf-admin bans
+::#stf-labs bans
+::#stf-status bans
+::#stf-gazelle bans
+::#stf bans
+::#stf-admins bans
+&&#stf-announce exempts
+&&#stf-staff exempts
+&&#stf-disabled exempts
+&&#stf-help exempts
+&&#stf-debug exempts
+&&#stf-report exempts
+&&#stf-admin exempts
+&&#stf-labs exempts
+&&#stf-status exempts
+&&#stf-gazelle exempts
+&&#stf exempts
+&&#stf-admins exempts
+$$#stf-announce invites
+$$#stf-staff invites
+$$#stf-disabled invites
+$$#stf-help invites
+$$#stf-debug invites
+$$#stf-report invites
+$$#stf-admin invites
+$$#stf-labs invites
+$$#stf-status invites
+$$#stf-gazelle invites
+$$#stf invites
+$$#stf-admins invites

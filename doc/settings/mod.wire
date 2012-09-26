@@ -1,0 +1,21 @@
+$Id: mod.wire,v 1.18 2011/02/13 14:19:33 simple Exp $
+
+Wire Module
+Last revised: July 24, 2004
+    _____________________________________________________________________
+
+                               Wire Module
+
+
+  This module provides all the standard .wire partyline commands. It is an
+  encrypted partyline communication tool, compatible with wire.tcl.
+
+  This module requires: encryption
+
+  Put this line into your Eggdrop configuration file to load the wire module:
+
+    loadmodule wire
+
+    _____________________________________________________________________
+
+  Copyright (C) 2000 - 2011 Eggheads Development Team
